@@ -1,0 +1,14 @@
+{
+  "name": "google-news-api",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Google News API in Python and JavaScript: search news by keyword, topic or URL with real publisher URLs and only-new monitoring. n8n workflow and MCP for AI agents.",
+  "license": "MIT",
+  "scripts": {
+    "start": "node example.mjs"
+  },
+  "dependencies": {
+    "apify-client": "^2.25.0"
+  }
+}
